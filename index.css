@@ -1,0 +1,14 @@
+.img1 img{
+    width: 180px;
+}
+.img1{
+    text-transform: capitalize;
+}
+.img1 h6{
+    display:grid;
+    justify-content: center;
+   
+}
+.card{
+    margin: 20px;
+}
